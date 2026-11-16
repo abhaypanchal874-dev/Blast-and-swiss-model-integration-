@@ -1,0 +1,5 @@
+streamlit>=1.37
+biopython>=1.83
+pandas>=2.0
+requests>=2.31
+openpyxl>=3.1
